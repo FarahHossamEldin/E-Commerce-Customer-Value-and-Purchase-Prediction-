@@ -1,6 +1,5 @@
 # E-Commerce-Customer-Value-and-Purchase-Prediction-
 An end-to-end data analytics and machine learning project focused on analyzing e-commerce customer behavior, identifying purchasing patterns, evaluating customer value, and predicting future purchase outcomes using SQL, Python, and Machine Learning.
-# Brazilian E-Commerce Customer Retention Analysis & Prediction
 
 ## 1. Problem Statement
 
@@ -12,7 +11,9 @@ This project aims to build a database-backed analytics and machine learning solu
 
 The resulting insights and predictions will help the business better understand customer retention patterns, identify valuable customer segments, and develop more targeted retention strategies.
 
-![Project Overview](images/Problem_statement.png)
+<div align="center">
+  <img src="images/Problem_statement.png" alt="Project Overview" width="800">
+</div>
 
 ## 2. Project Objectives
 

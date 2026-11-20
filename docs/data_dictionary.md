@@ -216,6 +216,6 @@ No missing values or exact duplicate rows were found. This table remains separat
 
 ## Entity Relationship Diagram (ERD)
 
-![Olist ERD](images/olist_erd.png)
+![Olist ERD]([images/olist_erd.png](https://github.com/FarahHossamEldin/E-Commerce-Customer-Value-and-Purchase-Prediction-/blob/main/images/olist_erd.png?raw=true))
 
 *The diagram shows the original source schema. In the processed files, `review_comment_title` and `review_comment_message` were dropped from `reviews`, and `geolocation_zip_code_prefix` is not a unique key: several geolocation records can share the same ZIP prefix.*
